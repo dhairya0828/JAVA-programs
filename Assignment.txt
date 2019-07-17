@@ -1,0 +1,16 @@
+Assignment  1 :-  Status ( Done )
+
+	1)    Wap to convert USD to INR and vice-versa
+	2)    Wap to convert Binary to Ddecimal and vice-versa
+	3)    Wap to implement basic calculator
+	4)    Wap to list numbers divisible by n between n1 & n2 range
+	5)    Wap to display n prime numbers
+
+Assignment 2 :- Status (  )
+
+	1) Wap to check for valid enrollment
+	2) Wap to check for valid email
+	3) Wap to sort array elements in descending order
+	4) Wap to check whether given two strings are anagram or not
+	5) wap to extract content from HTML string
+	6) Spell Checker (Auto Correct)
