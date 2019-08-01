@@ -15,24 +15,24 @@ Assignement 2:
 	extra : 
 	Anagram,
 	ContentExtractor
+	SpellChecker
 
 Assignement 3: 
 
 	1) Describe abstract class called Shape which has three subclasses say 
 	    Triangle,Rectangle,Circle. Define one method area() in the abstract class and
-	    override this area() in these three subclasses to calculate for specific object.
+	    override this area() in these three subclasses to calculate area for specific object.
 	2) Write a program that illustrates interface inheritance. Interface P is extended by P1 and P2.
 	   Interface P12 inherits from both P1 and P2.Each interface declares one constant and one method. 
-	  class Q implements P12.Instantiate Q and invoke each of its methods. Each method displays one of the constants
-
+	  class Q implements P12.Instantiate Q and invoke each of its methods. Each method displays one of the constants 
 	3) Write a program to create interface and declare one mehtod interest(p,r,n)
 	 then create two class SimpleInterest and CompoundInterest and calculate simple and compound interest.
+	4) Write a program to implement push and pop operation using stack class
 
 
 Assignment 4: 
 
-1) Write a program to implement push and pop operations
-2) Write a program to do matrix multiplication (3*3)
+1) Write a program to do matrix multiplication (3*3)
 
 Assignment 5:
 Implement Library Management System. Create 3 packages com.lib.model,com.lib.view and com.lib.controller. 

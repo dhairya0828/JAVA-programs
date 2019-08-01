@@ -1,4 +1,4 @@
-class AnagramStrings{
+    class AnagramStrings{
 
 
     static boolean checkForAnagram(String string1, String string2)
