@@ -2,10 +2,11 @@ class NumberConverter{
 
     static boolean validNumber(int numberType, String number)
     {
+        System.out.println(number);
         if(numberType==1)
         {
             for(int i=0;i<number.length();i++)
-                if(number.charAt(i)!='0' || number.charAt(i)!='1')
+                if(number.charAt(i)!='0' && number.charAt(i)!='1')
                     return false;
             return true;
         }
@@ -19,7 +20,7 @@ class NumberConverter{
                     return false;
             }
             return true ;
-        }*/
+        }*/return true ;
     }
     public static void main(String[] args){
       if(args.length != 2){

@@ -4,8 +4,9 @@
     static boolean checkForAnagram(String string1, String string2)
     {
         int[] recordOfCharacters = new int[30]; // BY DEFAULT INITIALISED WITH 0
-    /*    for(int i=0;i<30;i++)
-            System.out.print(recordOfCharacters[i] + " ");*/
+       /* for(int i=0;i<30;i++)
+            System.out.print(recordOfCharacters[i] + " ");
+*/
         if(string1.length() !=string2.length() )
             return false ;
         string1 = string1.toLowerCase();
@@ -25,8 +26,7 @@
 
 
     public static void main(String[] args) {
-
-
+       
         boolean anagram =  checkForAnagram(args[0], args[1]);
         if(anagram)
             System.out.println("Strings Are Anagram !!");

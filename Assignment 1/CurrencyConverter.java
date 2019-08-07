@@ -5,7 +5,7 @@ class CurrencyConverter{
               System.out.println("Error !");
               System.out.println("Add CurrencyType and CurrencyValue");
               System.out.println("CurrencyType : ");
-              System.out.println("1 : USD to INR\n" + "INR to USD");
+              System.out.println("1 : USD to INR\n" + "2 : INR to USD");
               System.exit(0);
           }
           
