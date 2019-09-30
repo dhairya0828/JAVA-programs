@@ -1,0 +1,75 @@
+Assignment 1:
+
+	1) Write a program to display first n prime numbers
+	2) Write a program to convert USD2INR and INR2USD
+	3) Write a program to implement basic calculator
+	4) Write a program to list a number divisible by n between n1 and n2 range
+
+Assignement 2: 
+
+	1) Write a program to validate rollno using String 
+	2) Write a program to validate email address 
+	3) Write a program to validate GTU enrollno
+	4) Write a program to sort an array elements in desceding order
+	
+	extra : 
+	Anagram,
+	ContentExtractor
+	SpellChecker
+
+Assignement 3: 
+
+	1) Describe abstract class called Shape which has three subclasses say 
+	    Triangle,Rectangle,Circle. Define one method area() in the abstract class and
+	    override this area() in these three subclasses to calculate area for specific object.
+	2) Write a program that illustrates interface inheritance. Interface P is extended by P1 and P2.
+	   Interface P12 inherits from both P1 and P2.Each interface declares one constant and one method. 
+	  class Q implements P12.Instantiate Q and invoke each of its methods. Each method displays one of the constants 
+	3) Write a program to create interface and declare one mehtod interest(p,r,n)
+	 then create two class SimpleInterest and CompoundInterest and calculate simple and compound interest.
+	4) Write a program to implement push and pop operation using stack class
+
+
+Assignment 4: 
+
+1) Write a program to do matrix multiplication (3*3)
+
+Assignment 5:
+Implement Library Management System. Create 3 packages com.lib.model,com.lib.view and com.lib.controller. 
+Implement proper classes within each package. LMS has below features
+1) Reader can issue book
+2) Reader can return book
+3) Reader can check book balance
+
+Assignment 6:
+1) Create ArrayList mover. In which selected element of one list moved to another.
+i.e. 
+
+subject	 selectedsubject
+Java        
+DAA
+Maths-I
+EME
+Database
+
+Lets move Java and DAA to selected subject
+
+subject	 	selectedsubject
+Maths-I		Java
+EME		DAA
+Database
+2) You are having a PhoneBook that consists of name and their phone number, for each entry, query for phone number of a person.
+
+
+Assignment 7:
+1) Create PrettyPrinter in nonpremtive manner using Thread.
+2) Create Producter Consumer problem using Inter Thread Communications.
+
+Assignment 8:
+1. Write a program to count number of files, directory from Present Working Directory.
+2. Write a program to export book data in CSV format.
+3. Implement fileCopy and fileMove operations of binary files.
+
+Assignment 9: 
+1) Implement a utility to get system IP address, and system name using network class.
+2) Implement a utility to get content from input url.
